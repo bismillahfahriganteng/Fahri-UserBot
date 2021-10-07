@@ -13,7 +13,7 @@
 
 ## DEPLOY ALVIN-USERBOT
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahrial2310/Fahri-UserBot/tree/Fahri-UserBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/fahrial2310/Fahri-UserBot)
 
 ## Get Your Telethon(t) String Session Here
 [![Run on Repl.it](https://repl.it/badge/github/fahrial2310/AlvinStringSession)](https://replit.com/@fahrial2310/AlvinStringSession)
